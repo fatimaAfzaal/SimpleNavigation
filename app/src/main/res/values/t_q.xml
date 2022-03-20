@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="t_questions">
+        <item>2 + 3 = 6</item>
+        <item>5 - 2 = 4</item>
+        <item>5 + 5 = 10</item>
+        <item>10 + 2 = 15</item>
+        <item>15 - 5 = 10</item>
+        <item>13 - 2 = 11</item>
+        <item>12 + 3 = 16</item>
+        <item>20 - 2 = 18</item>
+        <item>10 + 3 = 13</item>
+        <item>15 - 6 = 10</item>
+
+    </string-array>
+</resources>
